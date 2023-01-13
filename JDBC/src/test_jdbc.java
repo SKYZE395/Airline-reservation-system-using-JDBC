@@ -3113,10 +3113,6 @@ public class test_jdbc {
             System.out.println("DATABASE ALREADY CREATED");
         }
         new test_jdbc();
-        //new details_page("bruh",2,"student","manipal","home");
-        //new seat_select("a",1,"student","A","B","aakash","baang","bing");
-        //new payment_select("a",1,"student","A","B","aakash","baang","bing","a1","a2","a3");
-        //new card();
-        //new final_window("a", 1, "student", "A", "B", "aakash", "baang","bruh", "s67", "s90", "s99");
+        }
     }
 }
